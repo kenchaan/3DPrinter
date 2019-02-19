@@ -1,6 +1,6 @@
 ---
 name: Regular issue
-about: ''
+about: 'For enhancement, discussion, task.'
 title: ''
 labels: ''
 assignees: ''
