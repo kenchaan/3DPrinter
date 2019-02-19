@@ -1,6 +1,6 @@
 ---
 name: Bug issue
-about: ''
+about: 'For bug fix.'
 title: ''
 labels: ''
 assignees: ''
